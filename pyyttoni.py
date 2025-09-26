@@ -1,4 +1,7 @@
 
+print("morjens. tämä on Git-harjoitus")
+print("uusi lisäys")
+
 #Tämä on kommentti. - AS
 print("morjens. tämä on Git-harjoitus")
 print("tehdään muutoksia ja lisätään faijabränch")
