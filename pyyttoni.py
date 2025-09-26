@@ -3,6 +3,9 @@
 print("morjens. tämä on Git-harjoitus")
 print("tehdään muutoksia ja lisätään faijabränch")
 
+print("tehdään harjoitusta koululla")
+
+
 
 print("uus rivi")
 print("toinen rivi")
