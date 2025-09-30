@@ -8,7 +8,7 @@ print("tehdään muutoksia ja lisätään faijabränch")
 
 print("tehdään harjoitusta koululla")
 
-
+# Kommentti NT
 
 print("uus rivi")
 print("toinen rivi")
